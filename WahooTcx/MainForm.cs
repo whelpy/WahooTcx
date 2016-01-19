@@ -85,6 +85,8 @@ namespace WahooTcx
                                     }
                                 }
 
+                                // only single Lap files are supported for now
+                                break;
                             }
                         }
                     }
